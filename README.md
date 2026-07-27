@@ -259,11 +259,7 @@ images/skills.png
 
 ## 📈 Skill Gap Analysis
 
-> Add screenshot here
-
-```
-images/analyze.png
-```
+<img width="2596" height="5340" alt="image" src="https://github.com/user-attachments/assets/99ca05af-54dc-4256-84d5-5d896bc88adc" />
 
 ---
 
