@@ -229,11 +229,7 @@ http://localhost:8080/SkillBridge
 
 ## 🔐 Login Page
 
-> Add screenshot here
-
-```
-images/login.png
-```
+<img width="2596" height="5340" alt="image" src="https://github.com/user-attachments/assets/7f2975ea-804a-4ff3-a271-cd81d3d1580d" />
 
 ---
 
