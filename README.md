@@ -251,11 +251,8 @@ http://localhost:8080/SkillBridge
 
 ## 🛠 Skill Selection
 
-> Add screenshot here
+<img width="2596" height="1470" alt="image" src="https://github.com/user-attachments/assets/d181caee-ccf2-4679-a749-4099b1627ab2" />
 
-```
-images/skills.png
-```
 
 ---
 
