@@ -229,7 +229,8 @@ http://localhost:8080/SkillBridge
 
 ## 🔐 Login Page
 
-<img width="2596" height="5340" alt="image" src="https://github.com/user-attachments/assets/7f2975ea-804a-4ff3-a271-cd81d3d1580d" />
+<img width="2596" height="1036" alt="image" src="https://github.com/user-attachments/assets/413b383b-857e-430f-b726-45ef81fc3aa6" />
+
 
 ---
 
