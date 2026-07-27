@@ -242,11 +242,8 @@ http://localhost:8080/SkillBridge
 
 ## 📊 Dashboard
 
-> Add screenshot here
+<img width="2596" height="1036" alt="image" src="https://github.com/user-attachments/assets/228430bc-f1f5-415b-88cd-915ae4879157" />
 
-```
-images/dashboard.png
-```
 
 ---
 
