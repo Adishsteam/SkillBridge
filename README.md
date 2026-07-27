@@ -236,7 +236,8 @@ http://localhost:8080/SkillBridge
 
 ## 📝 Registration Page
 
-<img width="2596" height="1292" alt="image" src="https://github.com/user-attachments/assets/f3e8ebdc-5add-4f3f-9268-25328fbeb3b9" />
+<img width="2596" height="1674" alt="image" src="https://github.com/user-attachments/assets/a7e86ebf-eb9d-4972-aed2-c49ffc331eb2" />
+
 
 
 ---
