@@ -222,9 +222,8 @@ http://localhost:8080/SkillBridge
 
 > Add screenshot here
 
-```
-images/landing.png
-```
+
+<img width="2596" height="1388" alt="image" src="https://github.com/user-attachments/assets/2f1da863-cb30-4562-b5b9-5c423ea8b598" />
 
 ---
 
