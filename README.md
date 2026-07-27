@@ -242,7 +242,7 @@ http://localhost:8080/SkillBridge
 
 ## 📊 Dashboard
 
-<img width="2596" height="1036" alt="image" src="https://github.com/user-attachments/assets/228430bc-f1f5-415b-88cd-915ae4879157" />
+<img width="2596" height="1292" alt="image" src="https://github.com/user-attachments/assets/6007b69b-861e-4b5e-8556-a41eb2a0fec4" />
 
 
 ---
